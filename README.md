@@ -1,112 +1,18 @@
-# Anguluri-Kiran-Kumar
-Data Analyst | SQL | Power BI | Advanced Excel | Python (only if proficient) | Data Visualisation | Business Intelligence | Turning Data into Actionable Insights.
-# Hi, I'm Anguluri Kiran Kumar 👋
+# 💫 About Me:
+🔭 I'm currently working on: Data Analytics projects using SQL, Advanced Excel, and Power BI.<br><br>🤝 I'm looking to collaborate on: Data analysis, business intelligence, and dashboard development projects.<br><br>💡 I'm looking for help with: Advanced SQL queries, data modeling, and Power BI optimization.<br><br>🌱 I'm currently learning: Advanced data analytics techniques, DAX, and business intelligence tools.<br><br>💬 Ask me about: SQL, Excel, Power BI, KPI analysis, SEO analytics, and data reporting.<br><br>⚡ Fun fact: I enjoy turning raw data into meaningful insights that help businesses make smarter decisions.
 
-### Data Analyst | SQL | Advanced Excel | Power BI | Business Intelligence
 
-📍 Vijayawada, Andhra Pradesh, India
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/anguluri-kiran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiranangululi111@gmail.com) 
 
-Welcome to my GitHub profile!
-
-I am a Data Analytics professional with 4+ years of professional experience and specialized training in Data Analytics. I have experience in performance analysis, reporting, data interpretation and identifying actionable business insights.
-
-I enjoy transforming raw data into meaningful information that supports better business decisions.
-
----
-
-## 👨‍💻 About Me
-
-- 📊 Interested in Data Analytics and Business Intelligence.
-- 🗄️ Knowledge of SQL and database management.
-- 📈 Skilled in Microsoft Excel and Power BI.
-- 📉 Interested in KPI analysis and performance measurement.
-- 🔍 Experienced in website performance and SEO analytics.
-- 📚 Completed specialized Data Analytics training.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Anguluri-Kiran-Kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Anguluri-Kiran-Kumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anguluri-Kiran-Kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Anguluri-Kiran-Kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technical Skills
-
-**Data Analysis**
-- Exploratory Data Analysis
-- Data Cleaning and Transformation
-- Data Interpretation
-- Statistical Analysis
-- Trend Analysis
-- KPI Analysis
-
-**Tools & Technologies**
-- SQL
-- Microsoft Excel
-- Power BI
-- Pivot Tables
-- VLOOKUP
-- Data Visualization
-- Interactive Dashboards
-- Business Intelligence Reporting
-
----
-
-## 💼 Professional Experience
-
-**SEO Team Lead – Bangalore Prop**
-May 2022 – May 2026
-
-- Analyzed website traffic and performance trends.
-- Evaluated keyword datasets and competitor metrics.
-- Prepared analytical reports and performance insights.
-- Examined user engagement and visibility metrics.
-- Supported business decisions through data analysis.
-
-**Previous Experience**
-- Digital Marketing Executive Intern – Kernelsphere Technologies
-- Territory Sales Executive – Vihari The Traveller
-- Relationship Executive – Habitat for Humanity
-
----
-
-## 🎓 Education
-
-- MBA – HR & Industrial Relations
-  Vishnu Institute of Technology | 2016
-- B.Sc. – Electronics
-  Andhra Loyola College | 2014
-
----
-
-## 📜 Certifications
-
-- Digital Marketing Certification – Board Infinity
-- Search Engine Optimization (SEO)
-- Search Engine Marketing (SEM)
-- Social Media Marketing
-- Content Marketing Fundamentals
-
----
-
-## 📊 Data Analytics Projects
-
-I am building practical projects focused on:
-
-- Sales Data Analysis
-- SQL Business Analysis
-- Power BI Dashboard Development
-- Excel Data Analytics
-- Website Performance Analysis
-
-Project repositories will be added as they are completed.
-
----
-
-## 🤝 Connect With Me
-
-📧 Email: kiranangululi111@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/anguluri-kiran
-
-📍 Vijayawada, Andhra Pradesh, India
-
----
-
-⭐ Thank you for visiting my GitHub profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
